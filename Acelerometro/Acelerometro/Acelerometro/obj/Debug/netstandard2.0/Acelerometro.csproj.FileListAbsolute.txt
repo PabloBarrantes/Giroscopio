@@ -1,0 +1,9 @@
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\bin\Debug\netstandard2.0\Acelerometro.deps.json
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\bin\Debug\netstandard2.0\Acelerometro.dll
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.csprojAssemblyReference.cache
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.csproj.CoreCompileInputs.cache
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.AssemblyInfoInputs.cache
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.AssemblyInfo.cs
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\bin\Debug\netstandard2.0\Acelerometro.pdb
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.dll
+C:\Xamarin\Acelerometro\Acelerometro\Acelerometro\obj\Debug\netstandard2.0\Acelerometro.pdb
